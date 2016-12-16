@@ -1,2 +1,4 @@
 name: Jack Schindler
 markdown: kramdown
+
+theme: jekyll-theme-minimal
