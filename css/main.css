@@ -1,4 +1,23 @@
 body {
-	margin: 60px auto;
-	width: 50%;
+  font-family: 'Merriweather', serif;
+  margin: 100px 15px;
+  max-width: 670px;
+  justify-content: center;
+
+  @media screen and (min-width: 600px){ 
+    padding: 0 30px;
+  }
+}
+
+p {
+  font-size: 16px;
+  line-height: 26px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  
+  @media screen and (min-width: 600px){ 
+    font-size: 18px;
+    line-height: 30px;
+  }
 }
