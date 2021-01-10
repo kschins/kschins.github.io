@@ -19,14 +19,14 @@ body {
 }
 
 p {
-  font-size: 30px;
+  font-size: 25px;
   line-height: 26px;
   word-wrap: break-word;
   overflow-wrap: break-word;
   hyphens: auto;
 
   @media screen and (min-width: 600px){
-    font-size: 32px;
-    line-height: 28px;
+    font-size: 27px;
+    line-height: 30px;
   }
 }
