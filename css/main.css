@@ -20,13 +20,13 @@ body {
 
 p {
   font-size: 25px;
-  line-height: 26px;
+  line-height: 37px;
   word-wrap: break-word;
   overflow-wrap: break-word;
   hyphens: auto;
 
   @media screen and (min-width: 600px){
-    font-size: 27px;
-    line-height: 30px;
+    font-size: 35px;
+    line-height: 52px;
   }
 }
